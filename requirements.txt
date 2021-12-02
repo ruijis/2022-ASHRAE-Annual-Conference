@@ -1,1 +1,2 @@
 pymortar>=2.0.6a6
+seaborn>=0.11.0
